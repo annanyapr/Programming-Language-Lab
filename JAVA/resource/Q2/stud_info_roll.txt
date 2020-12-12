@@ -1,0 +1,5 @@
+170101012,Aryan,Aryan@iitg.ac.in,56,TA1
+170101028,Arpit,Arpit@iitg.ac.in,140,CC
+170101031,Hopa,Hopa@iitg.ac.in,20,TA2
+170101032,Lopa,Lopa@iitg.ac.in,20,TA1
+170101070,Kartik,Kartik@iitg.ac.in,20,TA1
